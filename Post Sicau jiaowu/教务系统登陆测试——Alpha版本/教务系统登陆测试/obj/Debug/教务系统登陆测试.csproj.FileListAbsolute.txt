@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\教务处登陆\教务系统登陆测试\教务系统登陆测试\obj\Debug\教务系统登陆测试.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\教务处登陆\教务系统登陆测试\教务系统登陆测试\obj\Debug\教务系统登陆测试.Main.resources
+C:\Users\Admin\Desktop\教务处登陆\教务系统登陆测试\教务系统登陆测试\obj\Debug\教务系统登陆测试.Properties.Resources.resources
+C:\Users\Admin\Desktop\教务处登陆\教务系统登陆测试\教务系统登陆测试\obj\Debug\教务系统登陆测试.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\教务处登陆\教务系统登陆测试\教务系统登陆测试\bin\Debug\教务系统登陆测试.exe
+C:\Users\Admin\Desktop\教务处登陆\教务系统登陆测试\教务系统登陆测试\bin\Debug\教务系统登陆测试.pdb
+C:\Users\Admin\Desktop\教务处登陆\教务系统登陆测试\教务系统登陆测试\obj\Debug\教务系统登陆测试.exe
+C:\Users\Admin\Desktop\教务处登陆\教务系统登陆测试\教务系统登陆测试\obj\Debug\教务系统登陆测试.pdb
+C:\Users\Admin\Desktop\教务处登陆\教务系统登陆测试——Alpha版本\教务系统登陆测试\obj\Debug\教务系统登陆测试.exe
+C:\Users\Admin\Desktop\教务处登陆\教务系统登陆测试——Alpha版本\教务系统登陆测试\obj\Debug\教务系统登陆测试.pdb
+C:\Users\Admin\Desktop\教务处登陆\教务系统登陆测试——Alpha版本\教务系统登陆测试\bin\Debug\教务系统登陆测试.exe
+C:\Users\Admin\Desktop\教务处登陆\教务系统登陆测试——Alpha版本\教务系统登陆测试\bin\Debug\教务系统登陆测试.pdb
+C:\Users\Admin\Desktop\教务处登陆\教务系统登陆测试——Alpha版本\教务系统登陆测试\obj\Debug\教务系统登陆测试.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\教务处登陆\教务系统登陆测试——Alpha版本\教务系统登陆测试\obj\Debug\教务系统登陆测试.Main.resources
+C:\Users\Admin\Desktop\教务处登陆\教务系统登陆测试——Alpha版本\教务系统登陆测试\obj\Debug\教务系统登陆测试.Properties.Resources.resources
+C:\Users\Admin\Desktop\教务处登陆\教务系统登陆测试——Alpha版本\教务系统登陆测试\obj\Debug\教务系统登陆测试.csproj.GenerateResource.Cache

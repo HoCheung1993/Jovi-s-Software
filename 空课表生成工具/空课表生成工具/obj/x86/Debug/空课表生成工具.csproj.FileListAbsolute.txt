@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\空课表生成工具\空课表生成工具\bin\x86\Debug\空课表生成工具.exe
+C:\Users\Admin\Desktop\空课表生成工具\空课表生成工具\bin\x86\Debug\空课表生成工具.pdb
+C:\Users\Admin\Desktop\空课表生成工具\空课表生成工具\obj\x86\Debug\空课表生成工具.Main.resources
+C:\Users\Admin\Desktop\空课表生成工具\空课表生成工具\obj\x86\Debug\空课表生成工具.Properties.Resources.resources
+C:\Users\Admin\Desktop\空课表生成工具\空课表生成工具\obj\x86\Debug\空课表生成工具.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\空课表生成工具\空课表生成工具\obj\x86\Debug\空课表生成工具.exe
+C:\Users\Admin\Desktop\空课表生成工具\空课表生成工具\obj\x86\Debug\空课表生成工具.pdb
+C:\Users\Admin\Desktop\空课表生成工具\空课表生成工具\obj\x86\Debug\空课表生成工具.csprojResolveAssemblyReference.cache

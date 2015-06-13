@@ -1,0 +1,24 @@
+C:\Users\Jovi\Desktop\New folder\obj\x86\Debug\超星慕课.csprojResolveAssemblyReference.cache
+C:\Users\Jovi\Desktop\New folder\bin\Debug\超星慕课.exe.config
+C:\Users\Jovi\Desktop\New folder\bin\Debug\超星慕课.exe
+C:\Users\Jovi\Desktop\New folder\bin\Debug\超星慕课.pdb
+C:\Users\Jovi\Desktop\New folder\obj\x86\Debug\超星慕课.exe
+C:\Users\Jovi\Desktop\New folder\obj\x86\Debug\超星慕课.pdb
+C:\Users\Jovi\Desktop\New folder\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Jovi\Desktop\New folder\obj\x86\Debug\超星慕课.csproj.GenerateResource.Cache
+C:\Users\Jovi\Desktop\慕课\bin\Debug\超星慕课.exe.config
+C:\Users\Jovi\Desktop\慕课\obj\x86\Debug\超星慕课.exe
+C:\Users\Jovi\Desktop\慕课\obj\x86\Debug\超星慕课.pdb
+C:\Users\Jovi\Desktop\慕课\bin\Debug\超星慕课.exe
+C:\Users\Jovi\Desktop\慕课\bin\Debug\超星慕课.pdb
+C:\Users\Jovi\Desktop\慕课\obj\x86\Debug\超星慕课.csprojResolveAssemblyReference.cache
+C:\Users\Jovi\Desktop\慕课\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Jovi\Desktop\慕课\obj\x86\Debug\超星慕课.csproj.GenerateResource.Cache
+E:\C语言学习资料\慕课\bin\Debug\超星慕课.exe.config
+E:\C语言学习资料\慕课\obj\x86\Debug\超星慕课.exe
+E:\C语言学习资料\慕课\obj\x86\Debug\超星慕课.pdb
+E:\C语言学习资料\慕课\bin\Debug\超星慕课.exe
+E:\C语言学习资料\慕课\bin\Debug\超星慕课.pdb
+E:\C语言学习资料\慕课\obj\x86\Debug\超星慕课.csprojResolveAssemblyReference.cache
+E:\C语言学习资料\慕课\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\C语言学习资料\慕课\obj\x86\Debug\超星慕课.csproj.GenerateResource.Cache

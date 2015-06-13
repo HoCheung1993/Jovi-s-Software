@@ -1,0 +1,6 @@
+lanmuys=%D1%A7%C9%FA%C0%B8%C4%BF   //选课的post数据
+http://jiaowu.sicau.edu.cn/xuesheng/gongxuan/gongxuan/bxq.asp  //提交网址
+http://jiaowu.sicau.edu.cn/xuesheng/bangong/main/index1.asp    //referer
+
+Referer http://jiaowu.sicau.edu.cn/xuesheng/gongxuan/gongxuan/kai.asp?xueqi=2013-2014-2
+直接对  http://jiaowu.sicau.edu.cn/xuesheng/gongxuan/gongxuan/xuan.asp?bianhao=300092166 进行提交

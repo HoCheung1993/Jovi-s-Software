@@ -1,0 +1,8 @@
+E:\C语言学习资料\新航线账号获取器\新航线账号获取器\bin\Release\新航线账号获取器.exe
+E:\C语言学习资料\新航线账号获取器\新航线账号获取器\bin\Release\新航线账号获取器.pdb
+E:\C语言学习资料\新航线账号获取器\新航线账号获取器\obj\Release\新航线账号获取器.FrmAbout.resources
+E:\C语言学习资料\新航线账号获取器\新航线账号获取器\obj\Release\新航线账号获取器.FrmMain.resources
+E:\C语言学习资料\新航线账号获取器\新航线账号获取器\obj\Release\新航线账号获取器.Properties.Resources.resources
+E:\C语言学习资料\新航线账号获取器\新航线账号获取器\obj\Release\新航线账号获取器.csproj.GenerateResource.Cache
+E:\C语言学习资料\新航线账号获取器\新航线账号获取器\obj\Release\新航线账号获取器.exe
+E:\C语言学习资料\新航线账号获取器\新航线账号获取器\obj\Release\新航线账号获取器.pdb
