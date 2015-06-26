@@ -441,13 +441,16 @@ E_RESULT CStockInformationCtrl::ExcuteSQL(CString strCmd)
 	_variant_t RecordsAffected;
 	try
 	{
-		m_pConnection->Execute(strCmd.GetBuffer(), &RecordsAffected, adCmdText);
+		if (m_bContinue)
+		{
+			m_pConnection->Execute(strCmd.GetBuffer(), &RecordsAffected, adCmdText);
+		}
 	}
-	catch (_com_error &e)
+	catch (_com_error &)
 	{
 //		AfxMessageBox(L"SQL”Ôæ‰÷¥––¥ÌŒÛ£∫" + e.Description());
-		std::wstring temp(e.Description());
-		CLog::GetInstance().AddLog(temp, WARNNING_LOG);
+		//std::wstring temp(e.Description());
+		//CLog::GetInstance().AddLog(temp, WARNNING_LOG);
 		return FALSE;
 	}
 	return SUCCESS;
